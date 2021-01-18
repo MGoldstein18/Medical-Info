@@ -7,7 +7,8 @@
     "test": "mocha",
     "start": "concurrently \"npm run dev\" \"npm run client\"",
     "dev": "node server",
-    "client": "cd frontend && npm start"
+    "client": "cd frontend && npm start",
+    "heroku-postbuild" : "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend"
   },
   "keywords": [],
   "author": "",
