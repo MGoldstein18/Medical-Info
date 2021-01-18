@@ -1,0 +1,31 @@
+{
+  "name": "capstone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "concurrently \"npm run dev\" \"npm run client\"",
+    "dev": "node server",
+    "client": "cd frontend && npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chai": "^4.2.0",
+    "concurrently": "^5.3.0",
+    "cors": "^2.8.5",
+    "date-and-time": "^0.14.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^4.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "mocha": "^8.2.1",
+    "mongoose": "^5.11.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

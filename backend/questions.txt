@@ -1,0 +1,14 @@
+1) How to use date in mongoose?
+2) How to do an image upload?
+3) What is useEffect? How to use it?
+4) The best way to create a backend for me to approve medical professionals
+
+
+
+Remember: 
+- Add medical aid question
+- Add check boxes for allergies/conditions/meds
+- Add ability to change password/forgot password
+- Ensure that only one account per email and cell phone number can exist]
+- Add 2f authentication
+- Add authentication to the update of medical

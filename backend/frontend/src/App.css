@@ -1,0 +1,219 @@
+.nav-item {
+  margin-left: 4rem;
+}
+
+.nav-link {
+  color: #571f4e;
+  font-size: 20px;
+}
+
+img {
+  height: 250px;
+  width: 100%;
+}
+
+#heading {
+  background-color: #f8bdb5;
+  border-radius: 25px;
+}
+.jumbotron {
+  text-align: center;
+  color: #a82110;
+  font-family: "Dosis", "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.jumbotron h1 {
+  font-size: 64px;
+}
+
+.jumbotron p {
+  font-size: 30px;
+}
+
+.jumbotron button {
+  width: 200px;
+}
+
+.intro {
+  height: 80px;
+}
+.intro p {
+  font-size: 28px;
+  font-family: Open Sans;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+.questions {
+  height: 250px;
+}
+
+.questions p {
+  font-size: 24px;
+  font-family: Dosis;
+}
+
+.action p {
+  font-size: 30px;
+  font-family: Open Sans;
+  font-weight: bold;
+  color: #ff931f;
+}
+
+.create {
+  color: #e07400;
+}
+
+#lovedOne {
+  border: 2px #ccc solid;
+}
+
+.family {
+  height: 150px;
+}
+
+.family p,
+#lovedOne p {
+  font-size: 24px;
+  font-family: Open Sans;
+  color: #8a1919;
+}
+
+#medical {
+  border: 2px #ccc solid;
+}
+
+#profs p {
+  font-size: 24px;
+  font-family: Open Sans;
+  line-height: 2em;
+  color: #003049;
+}
+
+#future {
+  font-size: 30px;
+  font-family: Open Sans;
+  color: #003049;
+}
+
+.medical-list {
+  list-style-type: none;
+}
+
+.medical-list li {
+  font-size: 22px;
+  font-family: Open Sans;
+  line-height: 4em;
+  color: #003049;
+}
+
+footer p {
+  font-size: 20px;
+  font-family: Open Sans;
+  font-style: italic;
+}
+
+.contact {
+  border: 1px #ccc solid;
+}
+
+.us div p {
+  font-size: 22px;
+  color: #083d77;
+}
+
+.us h3 {
+  color: #083d77;
+}
+
+.you h3 {
+  color: #216e45;
+}
+
+#popl p {
+  line-height: 2rem;
+  font-size: 20px;
+  color: #083d77;
+}
+
+#popl h3,
+#popl h4 {
+  color: #216e45;
+}
+
+#headinglo {
+  color: #a82110;
+  font-family: Open Sans;
+  font-size: 32px;
+}
+
+#introlo {
+  font-family: Open Sans;
+  font-size: 18px;
+  color: #6f7077;
+}
+
+#headingm {
+  color: #083d77;
+  font-family: Open Sans;
+  font-size: 32px;
+}
+
+#introm {
+  font-family: Open Sans;
+  font-size: 18px;
+  color: #6f7077;
+}
+
+#headingSign {
+  color: #083d77;
+  font-family: Open Sans;
+  font-size: 32px;
+}
+
+#dashboardLOheader {
+  color: #8a1919;
+  text-align: center;
+  font-family: Open Sans;
+}
+
+#dashboardLOheader p {
+  font-size: 22px;
+}
+
+#dashboardLO {
+  font-family: Open Sans;
+  color: #333;
+  display: flex;
+  justify-content: space-between;
+  align-content: space-between;
+}
+
+#dashboardLO #LOprofile p {
+  font-size: 18px;
+  line-height: 2.5em;
+}
+
+#dashboardMheader {
+  color: #003049;
+  text-align: center;
+  font-family: Open Sans;
+}
+
+#dashboardMheader p {
+  font-size: 22px;
+}
+
+#dashboardM {
+  font-family: Open Sans;
+  color: #333;
+  display: flex;
+  justify-content: space-between;
+  align-content: space-between;
+}
+
+#dashboardM #Mprofile p {
+  font-size: 18px;
+  line-height: 2.5em;
+}
